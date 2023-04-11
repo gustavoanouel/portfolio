@@ -41,6 +41,8 @@ body {
     width: 100px;
   }
 }
+
+/*Carousel de cards*/
 .carousel-inner {
   padding: 1em;
 }
